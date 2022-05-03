@@ -18,6 +18,6 @@ The number of multiplications needed for calculating the determinant of an nxn m
 $$\sum_{k=1}^{n}\frac{n!}{k!}$$
 
 Then, for calculating the determinant of a 100*100 matrix, the cpu must perform approximately 15.462 * 10¹⁵⁷ multiplications. For
-a 3.7 GHz processor, that means 15.462 * 10¹⁴⁸ seconds. That is almost 4.8 * 10¹⁴³ days. This number is greater than googol. In fact,
+a 3.7 GHz processor, that is almost 4.8 * 10¹⁴³ days. This number is greater than googol. In fact,
 it's greater than the number of elementary particles in the known universe.
 
