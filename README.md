@@ -9,3 +9,5 @@ The determinant of B is 42.
 The file exercise_2.rb is a solution.
 
 ## 3
+
+I'm still answering this.
